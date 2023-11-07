@@ -1,0 +1,53 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color: black;
+}
+header{
+    text-align: center;
+    color: aquamarine;
+    
+}
+.imagen {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+}
+
+.biografia {
+    background-color: aliceblue;
+    margin: auto;
+    padding: 1rem;
+    width: 650px;
+    
+}
+.card:hover{
+cursor: pointer;
+}
+.pelicula {
+background-color: aliceblue;
+margin: auto;
+padding: 1rem;
+width: 650px;
+
+}
+.btn-animado {
+    padding: 10 ;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(241, 238, 238);
+    color: rgb(0 , 0, 0) ;
+    cursor: pointer;
+    border-color: black 10px;
+    width: 650px;
+    box-shadow: 10x 10px 15px rgb(222, 217, 217)
+   
+    }
+   .btn-animado{
+    padding: 20px;
+    font-size: 10px;
+    cursor: pointer;
+
+
+   }
